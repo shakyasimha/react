@@ -1,4 +1,4 @@
-import '../App.css'
+import '../styles/Card.css'
 
 function Card({ person }) {
     return (

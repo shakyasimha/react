@@ -1,0 +1,56 @@
+.card-box {
+background-color: #000c43;
+color: #000;
+
+margin-bottom: 2rem; 
+
+width: 65.25rem; 
+height: 37.5em;
+padding: 2em;
+border: 0.1px;
+border-radius: 0.5em; 
+
+box-shadow: 0px 4px 4px 0px #616d7e;
+}
+
+.card-box:hover {
+box-shadow: 0.1em 0.1em 8px #616d7e;
+transition: 0.3s ease;
+}
+
+.nameholder {
+margin-bottom: 1rem; 
+margin-left: 1rem; 
+position: relative; 
+bottom: 0.2rem;
+top: 30rem;
+
+width: 37.4375rem;
+height: 8.5rem;
+
+color: #ffd700;
+text-align: left;
+font-family: 'Julius Sans One', sans-serif;
+font-size: 2.5rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;  
+}
+
+.designation {
+margin-bottom: 1rem; 
+margin-left: 1rem; 
+position: fixed;
+bottom: 2px;
+
+width: 37.4375rem;
+height: 8.5rem;
+
+color: #FFD700;
+text-align: left;
+font-family: 'Julius Sans One', sans-serif;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
