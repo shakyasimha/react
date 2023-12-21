@@ -21,9 +21,10 @@
 .cardbox--nameholder {
     margin-bottom: 1rem; 
     margin-left: 1rem; 
-    position: relative; 
-    bottom: 0.2rem;
-    top: 30rem;
+    /* position: absolute;  */
+    display: flex;
+    /* bottom: 0.1rem; */
+    /* top: 35rem; */
 
     width: 37.4375rem;
     height: 8.5rem;
@@ -39,9 +40,9 @@
 
 .cardbox--designation {
     margin-bottom: 1rem; 
-    margin-left: 1rem; 
-    position: fixed;
-    bottom: 2px;
+    margin-left: 1rem;
+    /* bottom: 0.2rem; */
+    display: flex;
 
     width: 37.4375rem;
     height: 8.5rem;
